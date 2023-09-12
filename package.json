@@ -1,0 +1,14 @@
+{
+  "name": "autoforwardbot",
+  "version": "1.0.0",
+  "description": "A forwarder bot telegram",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run"
+  },
+  "author": "aisbircubes",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.63.0"
+  }
+}
